@@ -1,7 +1,8 @@
 # Project1-G5
-Instructions to Find our Assignment Components
-Our ReadMe contains our written analysis. The final code can be found in the folder “Project 1 G5” and is titled “Amazon_Code_Final_12.18.” Our individual codes can be found in the branches corresponding to our names. All charts and graphs were put into the “Output” folder within the repo. Our slide deck is also within the repo folder titled “Northwestern Group 5 presentation.” We have also uploaded a PDF of our written analysis titled "Group 5 Project 1 Analysis" for easier reading.
+We decided to analyze an amazon survey in order to try and gauge people's purchasing behaviour and site usage. The people that collaborated to produce this analysis were myself, Bridget Groble, Maia Sepiashvili, and Eileen Fey. 
 
+Instructions to Find our Assignment Components
+Our ReadMe contains our written analysis. The final code can be found in this repository in the file titled “Amazon_Code_Final_12.18.” Our individual codes can be found in the branches in Bridget's repository (https://github.com/bgroble/Project1-G5) where we all uploaded and combined our code. All charts and graphs were put into the “Output” folder within the repo. Our slide deck is also within the repo folder titled “Northwestern Group 5 presentation.” We have also uploaded a PDF of our written analysis titled "Group 5 Project 1 Analysis" for easier reading, though it can also be found below.
 
 Written Analysis 
 
