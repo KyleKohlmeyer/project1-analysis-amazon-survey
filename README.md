@@ -2,7 +2,7 @@
 We decided to analyze the data from amazon survey in order to gauge people's purchasing behaviour and site usage. The people that collaborated to produce this analysis were myself, Bridget Groble, Maia Sepiashvili, and Eileen Fey. 
 
 ## Instructions to Find Individual Members Contributions
-The ReadMe contains our written analysis. The final code can be found in this repository in the file titled “Amazon_Code_Final_12.18.” Our individual codes can be found in the branches in Bridget's repository (https://github.com/bgroble/Project1-G5) where we all uploaded and merged our code. All charts and graphs were put into the “Output” folder within the repo. Our slide deck is also within the repo folder titled “Northwestern Group 5 presentation.” We have also uploaded a PDF of our written analysis titled "Group 5 Project 1 Analysis" for easier reading, though it can also be found here below.
+The ReadMe contains our written analysis. The final code can be found in this repository in the file titled “Amazon_Code_Final_12.18.” Our individual contributions to the overall code can be found in the branches in Bridget's repository (https://github.com/bgroble/Project1-G5) where we all uploaded and merged our code. All charts and graphs are in the “Output” folder. Our slide deck is within the folder titled “Northwestern Group 5 presentation.” We have also uploaded a PDF of our written analysis titled "Group 5 Project 1 Analysis" for easier reading, though it can also be found here below.
 
 ## Written Analysis 
 
